@@ -12,4 +12,4 @@ Development of a python code in order to perform the data reading, the calculati
 
 Examples of plots:
 
-![example](https://github.com/tomchavakis/aerosol/graphsfix/MeanAOD1-2km_Autumn.png)
+![example](https://github.com/tomchavakis/aerosol/blob/master/graphsfix/MeanAOD1-2km_Autumn.png)
