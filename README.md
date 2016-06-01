@@ -9,3 +9,7 @@ satellite in order to investigate the variation of Atmospheric Optical Depth (AO
 <h3>Implementation</h3>
 
 Development of a python code in order to perform the data reading, the calculation of means, deseasonalization and the plot.
+
+Examples of plots:
+
+<img src="../graphsfix/MeanAOD1-2km_Autumn.png"/>
